@@ -1,0 +1,5 @@
+export const COUNTER_CONSTANTS = {
+  MIN_COUNTER: -100,
+  MAX_COUNTER: 100,
+  RESET_COUNTER: 0,
+};
