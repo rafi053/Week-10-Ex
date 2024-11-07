@@ -1,0 +1,13 @@
+.counter{
+    padding: 25px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap:7px;
+    justify-content: center;
+    align-items: center;
+}
+
+.CounterPage{}

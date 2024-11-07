@@ -1,0 +1,1 @@
+// Slice for posts
